@@ -1,0 +1,5 @@
+127.0.0.1 - - [01/May/2022:22:38:54 +0900] "GET / HTTP/1.1" 404 807
+0:0:0:0:0:0:0:1 - - [01/May/2022:22:38:56 +0900] "GET /Form/checkBox.jsp HTTP/1.1" 200 612
+0:0:0:0:0:0:0:1 - - [01/May/2022:22:39:00 +0900] "GET /Form/checkBox_act.jsp?lecture=html&lecture=css&lecture=java HTTP/1.1" 200 236
+0:0:0:0:0:0:0:1 - - [01/May/2022:22:39:17 +0900] "GET /Form/checkBox_act.jsp?lecture=html&lecture=css&lecture=java HTTP/1.1" 200 242
+0:0:0:0:0:0:0:1 - - [01/May/2022:22:39:20 +0900] "GET /Form/checkBox_act.jsp?lecture=html&lecture=css&lecture=java HTTP/1.1" 200 242
